@@ -1,0 +1,12 @@
+C:\Users\vavl\source\repos\TestApp\FigursLibrary\bin\Debug\net6.0\FigursLibrary.deps.json
+C:\Users\vavl\source\repos\TestApp\FigursLibrary\bin\Debug\net6.0\FigursLibrary.dll
+C:\Users\vavl\source\repos\TestApp\FigursLibrary\bin\Debug\net6.0\FigursLibrary.pdb
+C:\Users\vavl\source\repos\TestApp\FigursLibrary\obj\Debug\net6.0\FigursLibrary.csproj.AssemblyReference.cache
+C:\Users\vavl\source\repos\TestApp\FigursLibrary\obj\Debug\net6.0\FigursLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vavl\source\repos\TestApp\FigursLibrary\obj\Debug\net6.0\FigursLibrary.AssemblyInfoInputs.cache
+C:\Users\vavl\source\repos\TestApp\FigursLibrary\obj\Debug\net6.0\FigursLibrary.AssemblyInfo.cs
+C:\Users\vavl\source\repos\TestApp\FigursLibrary\obj\Debug\net6.0\FigursLibrary.csproj.CoreCompileInputs.cache
+C:\Users\vavl\source\repos\TestApp\FigursLibrary\obj\Debug\net6.0\FigursLibrary.dll
+C:\Users\vavl\source\repos\TestApp\FigursLibrary\obj\Debug\net6.0\refint\FigursLibrary.dll
+C:\Users\vavl\source\repos\TestApp\FigursLibrary\obj\Debug\net6.0\FigursLibrary.pdb
+C:\Users\vavl\source\repos\TestApp\FigursLibrary\obj\Debug\net6.0\ref\FigursLibrary.dll
